@@ -1,2 +1,4 @@
 # Neptor-App
-Bluetooth app
+
+
+This is the Neptor's Android soft! :)
